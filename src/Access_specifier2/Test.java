@@ -15,7 +15,7 @@ public class Test extends Example {
         //s.display();
         Test t=new Test();
         t.display();
-        t.name="riya";
+        t.name="riya mary";
         System.out.println(t.name);
 
     }
